@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Architecture](architecture.md)
+* [Our Word Document](our-word-document.md)
 
